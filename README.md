@@ -1,1 +1,2 @@
-# Encapsulamento_java2
+# Encapsulamento java 
+Segunda aula sobre encapsulamento em Java
